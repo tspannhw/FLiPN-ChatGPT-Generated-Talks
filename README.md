@@ -3,7 +3,6 @@
 #### Generated talks
 
 
-
 ### Prompts and Responses
 
 
@@ -33,17 +32,16 @@ By utilizing Apache Pulsar with Spring, developers can create cloud native micro
 
 
 
-
 #### write a conference talk pitch on building Apache Pulsar with Spring and Java to create a full lifecycle streaming data pipeline with Apache Pinot, Trino and Apache Iceberg.
 
 
-Title: Building a Full Lifecycle Streaming Data Pipeline with Apache Pulsar, Spring, Java, Apache Pinot, Trino, and Apache Iceberg
+#### Title: Building a Full Lifecycle Streaming Data Pipeline with Apache Pulsar, Spring, Java, Apache Pinot, Trino, and Apache Iceberg
 
-Overview:
+#### Overview:
 
 In this talk, we will delve into the process of building a full lifecycle streaming data pipeline using Apache Pulsar, Spring, Java, Apache Pinot, Trino, and Apache Iceberg. We will cover the key features and capabilities of each tool, and demonstrate how they can be integrated to create a robust and efficient pipeline for handling real-time streaming data.
 
-Key points:
+#### Key points:
 
 * Introduction to Apache Pulsar, Spring, and Java, and their roles in building a streaming data pipeline
 
@@ -55,7 +53,7 @@ Key points:
 
 * Case studies and real-world examples of successful implementations of this pipeline architecture
 
-Conclusion:
+#### Conclusion:
 
 By combining the power of Apache Pulsar, Spring, Java, Apache Pinot, Trino, and Apache Iceberg, developers can build a full lifecycle streaming data pipeline that is capable of efficiently handling real-time data at scale. This talk will provide a comprehensive overview of how to utilize these tools to build a reliable and effective streaming data pipeline.
 
@@ -63,13 +61,13 @@ By combining the power of Apache Pulsar, Spring, Java, Apache Pinot, Trino, and 
 
 #### write the perfect talk pitch for IoT and Pulsar
 
-Title: Leveraging Apache Pulsar for IoT Applications: A Practical Guide
+#### Title: Leveraging Apache Pulsar for IoT Applications: A Practical Guide
 
-Overview:
+#### Overview:
 
 In this talk, we will explore the potential of Apache Pulsar for building Internet of Things (IoT) applications. We will cover the key features of Pulsar that make it an ideal choice for IoT, including its distributed architecture, real-time processing capabilities, and support for edge computing. We will also provide practical guidance on how to integrate Pulsar with IoT systems and devices, and demonstrate how to use Pulsar to develop scalable, resilient, and efficient IoT applications.
 
-Key points:
+#### Key points:
 
 * Introduction to Apache Pulsar and its suitability for IoT applications
 
@@ -81,7 +79,7 @@ Key points:
 
 * Case studies and real-world examples of successful implementations of Pulsar in IoT environments
 
-Conclusion:
+#### Conclusion:
 
 Apache Pulsar is a powerful tool for building IoT applications that can handle high volumes of data and traffic in real-time. This talk will provide a comprehensive overview of how to leverage Pulsar to develop scalable, reliable, and efficient IoT applications.
 
@@ -144,19 +142,18 @@ https://www.datainmotion.dev/2021/08/building-bad-titles-for-talks.html
 * Overview of the integration of Apache Pulsar with Java
 * Best practices for using Apache Pulsar with Java
 * Setting up Apache Pulsar for Java development
-Steps for setting up Apache Pulsar for Java development
-Tools and libraries needed for working with Apache Pulsar and Java
-Creating a simple pub-sub messaging application with Apache Pulsar and Java
-Demonstration of how to create a simple pub-sub messaging application with Apache Pulsar and Java
-Best practices for building pub-sub messaging applications with Apache Pulsar and Java
-Building a stream processing application with Apache Pulsar and Java
-Demonstration of how to build a stream processing application with Apache Pulsar and Java
-Best practices for building stream processing applications with Apache Pulsar and Java
-Best practices for using Apache Pulsar with Java
-Tips and tricks for using Apache Pulsar with Java effectively
-Common pitfalls to avoid when using Apache Pulsar with Java
-Case studies and real-world examples of Apache Pulsar and Java in
-
+* Steps for setting up Apache Pulsar for Java development
+* Tools and libraries needed for working with Apache Pulsar and Java
+* Creating a simple pub-sub messaging application with Apache Pulsar and Java
+* Demonstration of how to create a simple pub-sub messaging application with Apache Pulsar and Java
+* Best practices for building pub-sub messaging applications with Apache Pulsar and Java
+* Building a stream processing application with Apache Pulsar and Java
+* Demonstration of how to build a stream processing application with Apache Pulsar and Java
+* Best practices for building stream processing applications with Apache Pulsar and Java
+* Best practices for using Apache Pulsar with Java
+* Tips and tricks for using Apache Pulsar with Java effectively
+* Common pitfalls to avoid when using Apache Pulsar with Java
+* Case studies and real-world examples of Apache Pulsar and Java in
 
 
 #### Title: Apache Pulsar for Java Developers: A Hands-On Guide
