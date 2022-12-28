@@ -87,19 +87,18 @@ Apache Pulsar is a powerful tool for building IoT applications that can handle h
 
 
 
-In 2021, textgenrnn 
+Back in the old days of 2021, textgenrnn did not such a good job.
 
 https://www.datainmotion.dev/2021/08/building-bad-titles-for-talks.html
-
 
 
 
 #### Generate a 20 minute talk on Apache Pulsar for Java developers with a demo and 20 slides
 
 
-Title: Apache Pulsar for Java Developers: A Hands-On Introduction
+#### Title: Apache Pulsar for Java Developers: A Hands-On Introduction
 
-Slides:
+#### Slides:
 
 * Introduction to Apache Pulsar
 * Key features of Apache Pulsar
@@ -122,7 +121,7 @@ Slides:
 * Q&A session
 * Conclusion
 
-Outline:
+#### Outline:
 
 * Introduction to Apache Pulsar
 * What is Apache Pulsar and why is it important for Java developers?
@@ -160,10 +159,9 @@ Case studies and real-world examples of Apache Pulsar and Java in
 
 
 
+#### Title: Apache Pulsar for Java Developers: A Hands-On Guide
 
-Title: Apache Pulsar for Java Developers: A Hands-On Guide
-
-Slides:
+#### Slides:
 
 Introduction to Apache Pulsar
 What is Apache Pulsar?
@@ -197,7 +195,7 @@ Recap of key points
 Resources for further learning
 Q&A session
 
-Demo:
+#### Demo:
 
 For the demo, we will walk through the steps of building a simple Java application that uses Pulsar to send and receive messages. This could be a standalone application or a microservice integrated with Spring. We will cover the basics of setting up the project, implementing the Pulsar producer and consumer, and testing and debugging the application.
 
@@ -205,37 +203,34 @@ Throughout the talk, we will provide practical guidance and best practices for u
 
 
 
+#### Title: Apache Pulsar for Java Developers: A Hands-On Guide
 
-Title: Apache Pulsar for Java Developers: A Hands-On Guide
-
-Overview:
+#### Overview:
 
 In this talk, we will provide a hands-on guide to using Apache Pulsar for Java developers. We will cover the key features of Pulsar that make it an ideal choice for building distributed systems, including its pub-sub messaging, stream processing, and edge computing capabilities. We will also demonstrate how to integrate Pulsar with Java, and provide best practices for using Pulsar to build scalable, resilient, and efficient applications.
 
-Slides:
+#### Slides:
 
-Introduction to Apache Pulsar
-Key features of Pulsar: pub-sub messaging, stream processing, and edge computing
-Benefits of using Pulsar for Java developers
-Integrating Pulsar with Java
-Setting up a Pulsar cluster
-Sending and receiving messages with Pulsar in Java
-Using Pulsar functions for stream processing
-Running Pulsar functions at the edge
-Scaling Pulsar applications with Java
-Best practices for using Pulsar with Java
-Real-world examples of Pulsar in action
-Q&A
+* Introduction to Apache Pulsar
+* Key features of Pulsar: pub-sub messaging, stream processing, and edge computing
+* Benefits of using Pulsar for Java developers
+* Integrating Pulsar with Java
+* Setting up a Pulsar cluster
+* Sending and receiving messages with Pulsar in Java
+* Using Pulsar functions for stream processing
+* Running Pulsar functions at the edge
+* Scaling Pulsar applications with Java
+* Best practices for using Pulsar with Java
+* Real-world examples of Pulsar in action
+* Q&A
 
-Demo:
+#### Demo:
 
 For the demo portion of the talk, we will demonstrate how to set up a Pulsar cluster and integrate it with a Java application. We will show how to send and receive messages with Pulsar, and how to use Pulsar functions for stream processing. We will also demonstrate how to scale a Pulsar application with Java and discuss best practices for using Pulsar in production environments.
 
-Conclusion:
+#### Conclusion:
 
 Apache Pulsar is a powerful tool for Java developers looking to build distributed systems that are scalable, resilient, and efficient. This talk will provide a hands-on guide to using Pulsar with Java, including a live demo and best practices for building Pulsar applications.
-
-
 
 
 
