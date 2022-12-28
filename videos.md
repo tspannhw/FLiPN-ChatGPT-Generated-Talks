@@ -434,3 +434,29 @@ Step 3: Migrate your Kafka consumers to Pulsar consumers
 Source code for Kafka API demo
 Migrating a KStreams application to Pulsar
 Step 1: Set up a Pulsar cluster and create topics for input and output streams
+
+
+
+
+migrate various Kafka application types, e.g. Kafka API, KStreams, KTable to Pulsar KoP 
+Title: "Migrating from Kafka to Pulsar: A Hands-On Guide"
+
+Abstract:
+
+Apache Pulsar is a popular alternative to Apache Kafka for building scalable and performant data streaming pipelines. If you are currently using Kafka but are considering a migration to Pulsar, this guide is for you.
+
+In this guide, we will provide a step-by-step guide for migrating various Kafka application types, including Kafka API, KStreams, and KTable, to Pulsar Kafka-on-Pulsar (KoP). We will provide source code for the demos and provide tips and best practices along the way.
+
+By the end of this guide, you will have a clear understanding of how to migrate your Kafka applications to Pulsar KoP, and you will have the tools and knowledge to get started on your own migration.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Migrating a Kafka API application to Pulsar KoP
+Step 1: Set up a Pulsar cluster and create a topic
+Step 2: Migrate your Kafka producers to Pulsar KoP producers
+Step 3: Migrate your Kafka consumers to Pulsar KoP consumers
+Source code for Kafka API demo
+Migrating a KStreams application to Pulsar KoP
+Step 1: Set up a Pulsar cluster and create topics for input and output streams
