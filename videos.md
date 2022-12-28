@@ -277,4 +277,19 @@ Tips and best practices for a smooth migration process
 Addressing common challenges and questions
 
 
+Abstract:
+
+Kafka has been a popular choice for building streaming data pipelines, but as organizations scale their data operations, they may start to encounter limitations with Kafka's scalability and flexibility. Apache Pulsar, a distributed publish-subscribe messaging system, offers many of the same capabilities as Kafka but with improved scalability and flexibility.
+
+In this hands-on webinar, we'll guide you through the process of migrating from Kafka to Pulsar. We'll start by reviewing the key features and differences between Kafka and Pulsar, and when it might make sense to consider a migration. We'll then demonstrate how to migrate various Kafka application types, including Kafka API, KStreams, and KTable, to Pulsar. You'll have the opportunity to follow along and migrate your own Kafka applications during the workshop portion of the webinar.
+
+By the end of this webinar, you'll have a good understanding of how to migrate your Kafka applications to Pulsar and be well-prepared to take advantage of Pulsar's improved scalability and flexibility.
+
+Webinar Outline:
+
+Introduction to Kafka and Pulsar
+Key features and differences between Kafka and Pulsar
+When to consider migrating from Kafka to Pulsar
+
+
 
