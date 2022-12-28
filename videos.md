@@ -291,5 +291,108 @@ Introduction to Kafka and Pulsar
 Key features and differences between Kafka and Pulsar
 When to consider migrating from Kafka to Pulsar
 
+Are you looking to migrate your Kafka applications to a more scalable and performant messaging system? Apache Pulsar is a popular choice, offering real-time data ingestion and processing, low latency and high throughput, and scalable and fault-tolerant architecture.
+
+In this hands-on webinar, we'll show you how to migrate various Kafka application types, including Kafka API, KStreams, KTable, and more, to Pulsar. We'll provide a step-by-step guide for migrating your applications, as well as tips and best practices for optimizing your Pulsar-based applications.
+
+By the end of this webinar, you'll have a clear understanding of how to migrate your Kafka applications to Pulsar and how to get the most out of this powerful messaging system.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of Kafka and its role in the modern data landscape
+Migrating Kafka API applications to Pulsar: a step-by-step guide
+Migrating KStreams applications to Pulsar: a step-by-step guide
+Migrating KTable applications to Pulsar: a step-by-step
+
+pache Pulsar is a popular alternative to Apache Kafka for building scalable and performant data streaming pipelines. If you are currently using Kafka but are considering a migration to Pulsar, this webinar is for you.
+
+In this hands-on webinar, we will demonstrate how to migrate various Kafka application types, including Kafka API, KStreams, and KTable, to Pulsar. We will walk you through the process step-by-step, providing tips and best practices along the way.
+
+By the end of this webinar, you will have a clear understanding of how to migrate your Kafka applications to Pulsar, and you will have the tools and knowledge to get started on your own migration.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Hands-on demonstration: Migrating a Kafka API application to Pulsar
+Hands-on demonstration: Migrating a KStreams application to Pulsar
+Hands-on demonstration: Migrating a KTable application to Pulsar
+Tips and best practices for migrating Kafka applications to Pulsar
+Q&A
+
+
+Title: "Migrating from Kafka to Pulsar: A Hands-On Webinar"
+
+Abstract:
+
+Apache Pulsar is a popular alternative to Apache Kafka for building scalable and performant data streaming pipelines. If you are currently using Kafka but are considering a migration to Pulsar, this webinar is for you.
+
+In this hands-on webinar, we will demonstrate how to migrate various Kafka application types, including Kafka API, KStreams, and KTable, to Pulsar. We will also show you how to migrate your Kafka applications written in Python to Pulsar. We will walk you through the process step-by-step, providing tips and best practices along the way.
+
+By the end of this webinar, you will have a clear understanding of how to migrate your Kafka applications to Pulsar, and you will have the tools and knowledge to get started on your own migration.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Hands-on demonstration: Migrating a Kafka API application to Pulsar
+Overview of the Kafka API
+Migrating a simple Kafka producer and consumer to Pulsar
+
+
+
+Title: "Migrating from Kafka to Pulsar: A Hands-On Webinar"
+
+Abstract:
+
+Apache Pulsar is a popular alternative to Apache Kafka for building scalable and performant data streaming pipelines. If you are currently using Kafka but are considering a migration to Pulsar, this webinar is for you.
+
+In this hands-on webinar, we will demonstrate how to migrate various Kafka application types, including Kafka API, KStreams, KTable, and python, to Pulsar. We will provide full source code for the demos and walk you through the process step-by-step, providing tips and best practices along the way.
+
+By the end of this webinar, you will have a clear understanding of how to migrate your Kafka applications to Pulsar, and you will have the tools and knowledge to get started on your own migration.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Hands-on demonstration: Migrating a Kafka API application to Pulsar
+Source code for the Kafka API demo
+Hands-on demonstration: Migrating a KStreams application to Pulsar
+
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Hands-on demonstration: Migrating a Kafka API application to Pulsar
+Source code for Kafka API demo
+Hands-on demonstration: Migrating a KStreams application to Pulsar
+Source
+
+how to migrate various Kafka application types, e.g. Kafka API, KStreams, KTable and python with full outline  to pulsar
+Title: "Migrating from Kafka to Pulsar: A Hands-On Guide"
+
+Abstract:
+
+Apache Pulsar is a popular alternative to Apache Kafka for building scalable and performant data streaming pipelines. If you are currently using Kafka but are considering a migration to Pulsar, this guide is for you.
+
+In this hands-on guide, we will provide step-by-step instructions on how to migrate various Kafka application types, including Kafka API, KStreams, KTable, and python, to Pulsar. We will also provide source code examples and tips and best practices along the way.
+
+By the end of this guide, you will have a clear understanding of how to migrate your Kafka applications to Pulsar, and you will have the tools and knowledge to get started on your own migration.
+
+Outline:
+
+Introduction to Apache Pulsar and its key features for data stream processing
+Overview of the Kafka-to-Pulsar migration process
+Migrating a Kafka API application to Pulsar
+Step-by-step instructions
+Source code example
+Migrating a KStreams application to Pulsar
+Step-by-step instructions
+Source code example
+Migrating a KTable application to Pulsar
+Step-by-step instructions
+
 
 
