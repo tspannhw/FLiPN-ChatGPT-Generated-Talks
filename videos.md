@@ -235,3 +235,46 @@ In conclusion, Apache Pulsar is a powerful tool for building scalable and perfor
 
 
 
+Title: "10 Tips for Building Scalable and Performant Microservices with Apache Pulsar"
+
+Microservices are a popular architectural style for building modern applications, allowing organizations to break down complex systems into smaller, more manageable components that can be developed, deployed, and scaled independently. Choosing the right technology to power these microservices is key to ensuring they are scalable, performant, and able to handle the growing demands of modern applications.
+
+Apache Pulsar, a distributed publish-subscribe messaging system, is a popular choice for building microservices. With its ability to handle high volumes of streaming data in real-time, Pulsar can be used to build scalable and fault-tolerant microservices that can grow with your organization's needs.
+
+Here are 10 tips for building scalable and performant microservices with Apache Pulsar:
+
+Use Pulsar's publish-subscribe messaging model to your advantage. Pulsar allows you to ingest and process data streams in real-time, using a publish-subscribe messaging model. This allows you to easily scale your microservices and add new data sources as needed.
+
+Utilize Pulsar's real-time processing capabilities. Pulsar allows you to perform real-time transformations and enrichments on your data streams, making it a powerful tool for building microservices that need to process and analyze data in near real-time.
+
+Integrate Pulsar with data stores like Apache Cassandra. Pulsar can be integrated with data stores like Apache Cassandra, providing fast and efficient data storage and allowing you to build microservices that can handle large volumes of data.
+
+Take advantage of Pulsar's scalability and fault-tolerance. Pulsar is designed to be scalable and fault-tolerant, allowing you to handle large volumes of data and maintain high availability
+
+
+
+
+Write a webinar on “Migrating from Kafka to Pulsar” Have a working session, demonstrate how to migrate various Kafka application types, e.g. Kafka API, KStreams, KTable, etc.
+
+Write a webinar on “Migrating from Kafka to Pulsar” Have a working session, demonstrate how to migrate various Kafka application types, e.g. Kafka API, KStreams, KTable, etc.
+Title: "Migrating from Kafka to Pulsar: A Practical Guide"
+
+Abstract:
+
+Apache Kafka is a popular streaming platform, but as organizations scale, they may start to encounter limitations and challenges that can be addressed by migrating to a different streaming platform. Apache Pulsar is a distributed publish-subscribe messaging system that offers many benefits over Kafka, including higher scalability, lower latency, and stronger security features.
+
+In this webinar, we will provide a practical guide for migrating from Kafka to Pulsar. We will cover the key differences between Kafka and Pulsar, and demonstrate how to migrate various Kafka application types, including Kafka API, KStreams, KTable, and more. We will also provide tips and best practices for a smooth migration process, and address common challenges and questions.
+
+By the end of this webinar, you will have the knowledge and skills needed to migrate your Kafka applications to Pulsar, and start taking advantage of its powerful features and capabilities.
+
+Outline:
+
+Introduction to Kafka and Pulsar
+Key differences between Kafka and Pulsar
+Migrating Kafka API applications to Pulsar
+Migrating KStreams and KTable applications to Pulsar
+Tips and best practices for a smooth migration process
+Addressing common challenges and questions
+
+
+
