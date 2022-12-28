@@ -136,3 +136,32 @@ Reason #8: Pulsar is highly available and reliable
 Reason #9: Pulsar is easy to use and maintain
 Reason #10: Pulsar has a strong community and ecosystem
 Conclusion and next steps for building real-time streaming data pipelines with Apache Pulsar
+
+
+Create a viral video on building data pipelines with Apache Pulsar listicle
+Title: "10 Tips for Building Scalable and Performant Data Pipelines with Apache Pulsar"
+
+Synopsis:
+
+Are you looking to build data pipelines that can handle high volumes of data and scale with your organization's needs? Apache Pulsar, the distributed publish-subscribe messaging system, can help you do just that.
+
+In this viral video, we'll provide you with 10 tips for building scalable and performant data pipelines with Apache Pulsar. You'll learn about the key features of Pulsar, including its ability to handle high volumes of streaming data in real-time, and how it can be used to build scalable and fault-tolerant data pipelines. We'll also provide some examples of how Pulsar can be used to stream data from various sources, including social media feeds, IoT devices, and more, and how it can be integrated with data warehouses like Snowflake to provide fast and efficient data ingestion.
+
+So get ready to stream your way to data pipeline success with Apache Pulsar!
+
+Video Outline:
+
+Introduction to Apache Pulsar and data pipelines
+Tip #1: Choose the right data sources for your pipeline
+Tip #2: Use Pulsar's publish-subscribe messaging model to your advantage
+Tip #3: Utilize Pulsar's real-time processing capabilities
+Tip #4: Integrate Pulsar with data warehouses like Snowflake
+Tip #5: Take advantage of Pulsar's scalability and fault-tolerance
+Tip #6: Use Pulsar's built-in security features
+Tip #7: Optimize your pipeline for high throughput and low latency
+Tip #8: Monitor and manage your pipeline with Pulsar's management tools
+Tip #9: Stay up-to-date with the latest Pulsar features and best practices
+Tip #10: Join the Pulsar community and seek out resources and support
+Conclusion and next steps for building data pipelines with Apache Pulsar
+
+
